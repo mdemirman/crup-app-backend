@@ -1,6 +1,6 @@
 # Product Management CRUD API
 
-A robust RESTful API built with Node.js, Express.js, and MongoDB for managing product data. This API provides full CRUD (Create, Read, Update, Delete) operations for products with proper error handling and validation.
+A RESTful API built with Node.js, Express.js, and MongoDB for managing product data. This API provides full CRUD (Create, Read, Update, Delete) operations for products with proper error handling and validation.
 
 ## 🚀 Features
 
